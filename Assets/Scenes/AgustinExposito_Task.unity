@@ -127,6 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 267989783926689607, guid: 76bb17a898a138540b50aeb1eadf1fcc, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 267989783926689658, guid: 76bb17a898a138540b50aeb1eadf1fcc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 49
@@ -1167,6 +1171,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 267989783926689607, guid: 76bb17a898a138540b50aeb1eadf1fcc, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 267989783926689658, guid: 76bb17a898a138540b50aeb1eadf1fcc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 52
@@ -1229,6 +1237,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 267989783926689607, guid: 76bb17a898a138540b50aeb1eadf1fcc, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 267989783926689658, guid: 76bb17a898a138540b50aeb1eadf1fcc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1
@@ -1412,6 +1424,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 968391746}
+    - target: {fileID: 4347648001152083078, guid: f6d580a2d4d093949aa6aff2097f56b1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57086,7 +57102,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -243.49944, y: 306.50046}
+  m_AnchoredPosition: {x: -243.49934, y: 306.50006}
   m_SizeDelta: {x: 0, y: 30000}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &4727457983680021982
@@ -57179,7 +57195,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 4727457984102319871}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.014595239
+  m_Size: 0.014595146
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -58705,7 +58721,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 4727457983932877504}
   m_Direction: 0
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.99999684
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -59679,25 +59695,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cow: 0
-  cowImg: {fileID: 0}
+  cowImg: {fileID: 4727457984129972834}
   chicken: 0
-  chickenImg: {fileID: 0}
+  chickenImg: {fileID: 4727457984338781971}
   horse: 0
-  horseImg: {fileID: 0}
+  horseImg: {fileID: 4727457983884977095}
   elephant: 0
-  elephantImg: {fileID: 0}
+  elephantImg: {fileID: 4727457983054202644}
   mushiMush: 0
-  mushiMushImg: {fileID: 0}
+  mushiMushImg: {fileID: 4727457982985499053}
   matsuneHiku: 0
-  matsuneHikuImg: {fileID: 0}
+  matsuneHikuImg: {fileID: 4727457984718415457}
   woopa: 0
-  woopaImg: {fileID: 0}
+  woopaImg: {fileID: 4727457984889222832}
   seal: 0
-  sealImg: {fileID: 0}
-  winStar: {fileID: 0}
+  sealImg: {fileID: 4727457984184066338}
+  winStar: {fileID: 4727457983089560568}
   audioSource: {fileID: 5493478065310582219}
   winSound: {fileID: 8300000, guid: 86c612ac29b9ea842b993da579532ba1, type: 3}
-  exclamationMarkBook: {fileID: 0}
+  exclamationMarkBook: {fileID: 8301618747814136591}
 --- !u!114 &5493478064968957810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59752,8 +59768,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d51834632e6c35c419892ca6debf29d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MenuGameObject: {fileID: 0}
-  MouseLockHelper: {fileID: 0}
+  MenuGameObject: {fileID: 4727457984942735427}
+  MouseLockHelper: {fileID: 6949401534757379042}
   PlayerInput: {fileID: 539323441}
 --- !u!114 &5493478064968957820
 MonoBehaviour:
