@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 3115fa0e5f8ebe7478e95fa476b68b7e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_07
+    second: {fileID: 2100000, guid: 8ddd733ec9bfb9d4f92611c44a3adbed, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Panda_Idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Panda
+      parentName: Panda_Idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig_Panda
+      parentName: Panda_Idle(Clone)
+      position: {x: 0.019713266, y: 1.9326957, z: -0.052606903}
+      rotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Rig_Panda1
+      parentName: Rig_Panda
+      position: {x: -0.6680542, y: 0.0033200814, z: -0.02498859}
+      rotation: {x: -0, y: -0, z: 0.0055863853, w: 0.9999844}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Rig_Panda2
+      parentName: Rig_Panda1
+      position: {x: -0.66201, y: -0.0071167513, z: 0.077595495}
+      rotation: {x: -0, y: -0, z: -0.004441782, w: 0.99999017}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig_Panda3
+      parentName: Rig_Panda2
+      position: {x: -0.9862986, y: -0.009339466, z: 0}
+      rotation: {x: -0, y: -0, z: 0.706297, w: 0.7079157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig_Panda4
+      parentName: Rig_Panda3
+      position: {x: 0.015484224, y: 1.7894766, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig_Panda5
+      parentName: Rig_Panda4
+      position: {x: -0.002108637, y: 2.2900853, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig_Panda6
+      parentName: Rig_Panda2
+      position: {x: -0.4881228, y: -1.0814737, z: 0}
+      rotation: {x: -0.014169171, y: 0.042317536, z: 0.8044748, w: 0.5923081}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Rig_Panda7
+      parentName: Rig_Panda6
+      position: {x: -0.82662517, y: -8.881784e-16, z: -0.096695326}
+      rotation: {x: -0.0056834896, y: -0.042985674, z: -0.0942187, w: 0.99460685}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: Rig_Panda8
+      parentName: Rig_Panda7
+      position: {x: -0.6804344, y: 0.03278676, z: 0.025408229}
+      rotation: {x: -0.003337755, y: -0.024267321, z: -0.07284312, w: 0.9970426}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: Rig_Panda9
+      parentName: Rig_Panda8
+      position: {x: -0.29910728, y: -0.031316403, z: 0.020807464}
+      rotation: {x: 0.0000000010225452, y: -0.0000000037207069, z: 0.04958992, w: 0.99876976}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: Rig_Panda10
+      parentName: Rig_Panda9
+      position: {x: -0.22862369, y: 4.440892e-16, z: 0.014734268}
+      rotation: {x: -0.0000000017775486, y: 0.0000000022053148, z: -0.491018, w: 0.8711495}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Rig_Panda11
+      parentName: Rig_Panda8
+      position: {x: -0.13954303, y: -0.032979485, z: 0.25396505}
+      rotation: {x: 0.444967, y: 0.54954934, z: -0.17265926, w: 0.6857031}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Rig_Panda12
+      parentName: Rig_Panda11
+      position: {x: -0.18426444, y: 0.003670996, z: -0.035251208}
+      rotation: {x: -0.15222459, y: -0.69052714, z: -0.15222462, w: 0.690527}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Rig_Panda13
+      parentName: Rig_Panda2
+      position: {x: -0.48317707, y: 1.0798181, z: 0}
+      rotation: {x: 0.80582833, y: 0.59046537, z: 0.014265951, w: -0.042284876}
+      scale: {x: 1, y: 0.9999998, z: 0.9999997}
+    - name: Rig_Panda14
+      parentName: Rig_Panda13
+      position: {x: 0.8266293, y: 0.00000065379015, z: 0.0966955}
+      rotation: {x: -0.0056836177, y: -0.042985477, z: -0.09421637, w: 0.9946071}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: Rig_Panda15
+      parentName: Rig_Panda14
+      position: {x: 0.68043184, y: -0.032789238, z: -0.0254085}
+      rotation: {x: -0.003337907, y: -0.024267849, z: -0.07284615, w: 0.99704236}
+      scale: {x: 1, y: 1.0000004, z: 1.0000006}
+    - name: Rig_Panda16
+      parentName: Rig_Panda15
+      position: {x: 0.299106, y: 0.031317, z: -0.0208075}
+      rotation: {x: 3.7271994e-10, y: -1.1102226e-16, z: 0.049590003, w: 0.99876964}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: Rig_Panda17
+      parentName: Rig_Panda16
+      position: {x: 0.22862475, y: 0.0000029267107, z: -0.01473415}
+      rotation: {x: -3.282073e-10, y: -6.268832e-11, z: -0.49101803, w: 0.8711494}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
+    - name: Rig_Panda18
+      parentName: Rig_Panda15
+      position: {x: 0.139544, y: 0.032983, z: -0.253965}
+      rotation: {x: 0.44496703, y: 0.5495493, z: -0.17265926, w: 0.68570316}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: Rig_Panda19
+      parentName: Rig_Panda18
+      position: {x: 0.18426424, y: -0.003671211, z: 0.03525}
+      rotation: {x: -0.15222466, y: -0.6905271, z: -0.15222465, w: 0.6905271}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Rig_Panda20
+      parentName: Rig_Panda
+      position: {x: 0.3253207, y: -0.8186502, z: -0.008025383}
+      rotation: {x: -0, y: -0, z: 1, w: 0}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Rig_Panda21
+      parentName: Rig_Panda20
+      position: {x: -0.7558167, y: -1.110223e-16, z: 0.048084863}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Rig_Panda22
+      parentName: Rig_Panda21
+      position: {x: -0.9341771, y: 1.110223e-16, z: -0.048084863}
+      rotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig_Panda23
+      parentName: Rig_Panda
+      position: {x: 0.32531887, y: 0.81865174, z: -0.008025383}
+      rotation: {x: 1, y: -0, z: -0, w: -6.123234e-17}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Rig_Panda24
+      parentName: Rig_Panda23
+      position: {x: 0.75582, y: -4.440892e-16, z: -0.048084863}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Rig_Panda25
+      parentName: Rig_Panda24
+      position: {x: 0.9341756, y: -3.330669e-16, z: 0.048084863}
+      rotation: {x: -4.3297806e-17, y: 4.3297806e-17, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    armTwist: 1
+    foreArmTwist: 0
+    upperLegTwist: 1
+    legTwist: 0
+    armStretch: 0
+    legStretch: 0
+    feetSpacing: 0
+    globalScale: 50
+    rootMotionBoneName: Rig_Panda
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
