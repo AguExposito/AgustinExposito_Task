@@ -29,6 +29,11 @@ public class NotableObject : MonoBehaviour
         {
             CameraTargetColliders.Add(collider_);
         }
+        // Automatically assign PlayMakerFSM if not set to avoid null references
+        if (LinkedFSM == null)
+        {
+            LinkedFSM = GetComponent<PlayMakerFSM>();
+        }
     }
 
 
@@ -69,12 +74,18 @@ public class NotableObject : MonoBehaviour
 
     public void ExitingCameraView()
     {
-        LinkedFSM.SendEvent("OnExitCameraFocus");
+        if (LinkedFSM != null)
+        {
+            LinkedFSM.SendEvent("OnExitCameraFocus");
+        }
     }
 
     public void CameraToolOnTarget()
     {
-        LinkedFSM.SendEvent("OnEnterCameraFocus");
+        if (LinkedFSM != null)
+        {
+            LinkedFSM.SendEvent("OnEnterCameraFocus");
+        }
     }
 
     public void SendCapturedEvent()
