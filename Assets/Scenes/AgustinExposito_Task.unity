@@ -1308,6 +1308,10 @@ PrefabInstance:
       value: Panda_Idle
       objectReference: {fileID: 0}
     - target: {fileID: 6069557821650583624, guid: 84c1f9707faf0b344801c1021c3df5d1, type: 3}
+      propertyPath: m_Actions
+      value: 
+      objectReference: {fileID: -944628639613478452, guid: 9e23d1b214d0b42519bd3e70ac0c6c61, type: 3}
+    - target: {fileID: 6069557821650583624, guid: 84c1f9707faf0b344801c1021c3df5d1, type: 3}
       propertyPath: m_DefaultControlScheme
       value: 
       objectReference: {fileID: 0}
@@ -57102,7 +57106,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -243.49934, y: 306.50006}
+  m_AnchoredPosition: {x: -243.49907, y: 306.50003}
   m_SizeDelta: {x: 0, y: 30000}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &4727457983680021982
@@ -58721,7 +58725,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 4727457983932877504}
   m_Direction: 0
   m_Value: 0
-  m_Size: 0.99999684
+  m_Size: 0.99999523
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -59783,10 +59787,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14272f97d31140ff84bdd7074dd1f77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InteractableUI: {fileID: 0}
+  InteractableUI: {fileID: 8584768031978041585}
   IsInInteraction: 0
   PlayerInput: {fileID: 539323441}
-  CameraToolUI: {fileID: 0}
+  CameraToolUI: {fileID: 8584768033600880606}
 --- !u!82 &5493478064968957821
 AudioSource:
   m_ObjectHideFlags: 0
