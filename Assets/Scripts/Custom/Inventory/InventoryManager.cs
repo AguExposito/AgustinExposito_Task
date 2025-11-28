@@ -23,6 +23,12 @@ namespace Code.Inventory
             {
                 ClearInventorySave();
             }
+            // Press F8 to clear current inventory (but keep saved copy until next save)
+            if (Keyboard.current != null && Keyboard.current.f8Key.wasPressedThisFrame)
+            {
+                Inventory.ClearAll();
+                Debug.Log("Inventario actual limpiado (no se ha borrado el guardado)");
+            }
         }
 
         public bool TryAddItem(ItemDefinition item, int amount = 1)

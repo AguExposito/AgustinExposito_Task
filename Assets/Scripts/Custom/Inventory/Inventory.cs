@@ -114,5 +114,14 @@ namespace Code.Inventory
             if (index < 0 || index >= slots_.Count) return;
             slots_[index] = slot;
         }
+
+        public void ClearAll()
+        {
+            for (int i = 0; i < slots_.Count; i++)
+            {
+                slots_[i] = new InventorySlot();
+            }
+            NotifyChanged();
+        }
     }
 }
