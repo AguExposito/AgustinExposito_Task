@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66e59551404e014bae9e69456cb5827, type: 3}
+  m_Name: WhiteFlower
+  m_EditorClassIdentifier: Assembly-CSharp::Code.Inventory.ItemDefinition
+  Id: bc1c7aee-8b84-4b00-8bbb-12e1af8b87ed
+  Icon: {fileID: 21300000, guid: 3436ff3ef1214af41b9f2963543886c8, type: 3}
+  Type: 0
+  MaxStack: 5
+  HealAmount: 1
