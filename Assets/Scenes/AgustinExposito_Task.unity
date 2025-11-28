@@ -75452,7 +75452,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 5493478064968957809}
         m_TargetAssemblyTypeName: IslandGameManager, Assembly-CSharp
         m_MethodName: Quit
         m_Mode: 1
@@ -76121,7 +76121,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -243.50002, y: 306.5014}
+  m_AnchoredPosition: {x: -243.5, y: 306.50104}
   m_SizeDelta: {x: 0, y: 30000}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &4727457983680021982
@@ -76214,7 +76214,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 4727457984102319871}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.014593006
+  m_Size: 0.0145952385
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -81579,6 +81579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Code.Inventory.UI.InventoryUIToggler
   InventoryUI: {fileID: 826448613}
   PlayerInput: {fileID: 539323441}
+  InventoryManager: {fileID: 1422180743}
   MovementController: {fileID: 1422180740}
 --- !u!1 &5493478065310581301
 GameObject:

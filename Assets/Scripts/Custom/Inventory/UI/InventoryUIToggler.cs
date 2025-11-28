@@ -7,6 +7,7 @@ namespace Code.Inventory.UI
     {
         public GameObject InventoryUI;
         public PlayerInput PlayerInput;
+        public InventoryManager InventoryManager;
         public MonoBehaviour MovementController;
 
         private void Start()
@@ -34,6 +35,12 @@ namespace Code.Inventory.UI
 
             Cursor.lockState = isActive ? CursorLockMode.None : CursorLockMode.Locked;
             Cursor.visible = isActive;
+
+            if (!isActive)
+            {
+                // save on close
+                InventoryManager.SaveInventory();
+            }
         }
     }
 }

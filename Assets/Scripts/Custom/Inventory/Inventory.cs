@@ -103,5 +103,16 @@ namespace Code.Inventory
             slots_[index] = slot;
             OnInventoryChanged?.Invoke();
         }
+
+        public void NotifyChanged()
+        {
+            OnInventoryChanged?.Invoke();
+        }
+
+        public void SetSlot(int index, InventorySlot slot)
+        {
+            if (index < 0 || index >= slots_.Count) return;
+            slots_[index] = slot;
+        }
     }
 }
