@@ -2828,8 +2828,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "F to interact\n\nRClick to consume \nconsumable items\n\nF9 to delete
-    saved inventory"
+  m_text: "F to interact\n\nRClick to consume \n items\n\nF8 to clear current inventory\n\nF9
+    to delete saved inventory"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -76434,7 +76434,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -243.5, y: 306.50143}
+  m_AnchoredPosition: {x: -243.50002, y: 306.49927}
   m_SizeDelta: {x: 0, y: 30000}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &4727457983680021982
@@ -76527,7 +76527,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 4727457984102319871}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.014594029
+  m_Size: 0.014270739
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
