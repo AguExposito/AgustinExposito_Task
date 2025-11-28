@@ -10,6 +10,7 @@ namespace Code.Inventory.UI
         public InventoryManager InventoryManager;
         public GameObject SlotPrefab;
         public Transform SlotsParent; // should have GridLayoutGroup
+        public ItemTooltip Tooltip;
 
         private Inventory Inventory => InventoryManager.Inventory;
         private InventorySlotUI[] slotUIs;
@@ -45,6 +46,7 @@ namespace Code.Inventory.UI
             for (int i = 0; i < slotUIs.Length; i++)
             {
                 slotUIs[i].SetSlot(Inventory.Slots[i]);
+                slotUIs[i].SetTooltip(Tooltip);
             }
         }
 
@@ -73,7 +75,7 @@ namespace Code.Inventory.UI
             dragImage.sprite = icon;
             // set fixed size to avoid overly large icon
             var rt = dragImage.rectTransform;
-            rt.sizeDelta = new Vector2(64, 64);
+            rt.sizeDelta = new Vector2(128, 128);
             dragImage.preserveAspect = true;
         }
 

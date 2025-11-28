@@ -16,4 +16,7 @@ MonoBehaviour:
   Icon: {fileID: 21300000, guid: 91e7d07827e73eb45afdc6d86cb7d6cb, type: 3}
   Type: 0
   MaxStack: 5
+  Description: 'Nice thorny flower
+
+    HP-1'
   HealAmount: -1

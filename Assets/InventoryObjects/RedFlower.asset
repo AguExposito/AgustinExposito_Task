@@ -16,4 +16,7 @@ MonoBehaviour:
   Icon: {fileID: 21300000, guid: bcf3f4206a0a7154e8a2661f160a11da, type: 3}
   Type: 1
   MaxStack: 10
+  Description: 'Beautiful red flower
+
+    Give 3 of them to chicken'
   HealAmount: 0

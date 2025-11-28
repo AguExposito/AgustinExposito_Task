@@ -16,6 +16,8 @@ namespace Code.Inventory
         public Sprite Icon;
         public ItemType Type;
         public int MaxStack = 1;
+        [TextArea]
+        public string Description;
 
         // Additional data for consumables or others
         public int HealAmount;

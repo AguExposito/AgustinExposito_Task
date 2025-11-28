@@ -5,7 +5,7 @@ using TMPro;
 
 namespace Code.Inventory.UI
 {
-    public class InventorySlotUI : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IDragHandler, IEndDragHandler, IDropHandler
+    public class InventorySlotUI : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IDragHandler, IEndDragHandler, IDropHandler, IPointerEnterHandler, IPointerExitHandler
     {
         [Header("UI")]
         public Image IconImage;
@@ -13,6 +13,7 @@ namespace Code.Inventory.UI
 
         private InventoryUI inventoryUI;
         private int slotIndex;
+        private ItemTooltip tooltip;
 
         public void Init(InventoryUI ui, int index)
         {
@@ -33,6 +34,11 @@ namespace Code.Inventory.UI
                 IconImage.sprite = slot.Item.Icon;
                 AmountText.text = slot.Amount > 1 ? slot.Amount.ToString() : "";
             }
+        }
+
+        public void SetTooltip(ItemTooltip t)
+        {
+            tooltip = t;
         }
 
         public void OnPointerDown(PointerEventData eventData)
@@ -70,6 +76,20 @@ namespace Code.Inventory.UI
         {
             if (!inventoryUI.IsDragging) return;
             inventoryUI.SwapSlots(slotIndex);
+        }
+
+        public void OnPointerEnter(PointerEventData eventData)
+        {
+            var slot = inventoryUI.InventoryManager.Inventory.Slots[slotIndex];
+            if (!slot.IsEmpty && tooltip != null)
+            {
+                tooltip.Show(slot.Item, eventData.position);
+            }
+        }
+
+        public void OnPointerExit(PointerEventData eventData)
+        {
+            tooltip?.Hide();
         }
     }
 }

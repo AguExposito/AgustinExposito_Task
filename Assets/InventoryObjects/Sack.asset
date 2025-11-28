@@ -16,4 +16,5 @@ MonoBehaviour:
   Icon: {fileID: 21300000, guid: 72b512a75b3511749b2dc32c0bc2ff64, type: 3}
   Type: 1
   MaxStack: 1
+  Description: Some Seal's favorite food
   HealAmount: 0
