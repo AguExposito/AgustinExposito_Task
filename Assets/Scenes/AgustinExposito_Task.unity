@@ -403,6 +403,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (16)
@@ -506,6 +510,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (4)
@@ -611,6 +619,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (9)
@@ -693,6 +705,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (11)
@@ -898,6 +914,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (7)
@@ -976,6 +996,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (5)
@@ -1054,6 +1078,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (22)
@@ -1227,6 +1255,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (20)
@@ -1305,6 +1337,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (8)
@@ -1379,6 +1415,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (5)
@@ -1473,6 +1513,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (11)
@@ -2070,6 +2114,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (7)
@@ -2172,6 +2220,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (10)
@@ -2246,6 +2298,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (8)
@@ -2328,6 +2384,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (12)
@@ -2402,6 +2462,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (17)
@@ -2637,6 +2701,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (17)
@@ -2703,6 +2771,143 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3274749496902014993, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
   m_PrefabInstance: {fileID: 837113083}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &882381847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 882381848}
+  - component: {fileID: 882381850}
+  - component: {fileID: 882381849}
+  m_Layer: 5
+  m_Name: Controls
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &882381848
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 882381847}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4727457984942735455}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -290, y: 0}
+  m_SizeDelta: {x: 750, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &882381849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 882381847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: "F to interact\n\nRClick to consume \nconsumable items\n\nF9 to delete
+    saved inventory"
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 3523229046
+  m_fontColor: {r: 0.4641509, g: 0.20818534, b: 0, a: 0.8235294}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 53
+  m_fontSizeBase: 53
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &882381850
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 882381847}
+  m_CullTransparentMesh: 1
 --- !u!1001 &888698402
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2711,6 +2916,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (2)
@@ -2793,6 +3002,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (2)
@@ -2871,6 +3084,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (3)
@@ -2985,6 +3202,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (13)
@@ -3788,6 +4009,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (9)
@@ -3862,6 +4087,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (6)
@@ -3944,6 +4173,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (21)
@@ -4200,6 +4433,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (24)
@@ -4564,6 +4801,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (15)
@@ -4963,6 +5204,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (14)
@@ -5045,6 +5290,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (14)
@@ -5119,6 +5368,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (3)
@@ -5197,6 +5450,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (12)
@@ -5366,6 +5623,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (15)
@@ -5448,6 +5709,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (6)
@@ -5522,6 +5787,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (13)
@@ -5604,6 +5873,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (1)
@@ -5722,6 +5995,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (18)
@@ -5796,6 +6073,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (4)
@@ -5878,6 +6159,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (25)
@@ -5952,6 +6237,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (10)
@@ -6151,6 +6440,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (16)
@@ -6229,6 +6522,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (19)
@@ -6303,6 +6600,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower (1)
@@ -6665,6 +6966,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower (23)
@@ -7903,6 +8208,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6863040183584957321}
     m_Modifications:
+    - target: {fileID: 4634018985578077391, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 5168870962661648582, guid: 0b7f1fd588301144ba28908db8c9d9c8, type: 3}
       propertyPath: m_Name
       value: White Flower
@@ -52106,7 +52415,7 @@ MonoBehaviour:
   InteractDistance: 20
   IsInteractableOnStart: 1
   IsInteractable: 0
-  EventListenerFsm: {fileID: 0}
+  EventListenerFsm: {fileID: 5444411191523341016}
   Outlines:
   - {fileID: 892266346848179832}
 --- !u!4 &904508753509475132
@@ -53476,7 +53785,7 @@ MonoBehaviour:
   InteractDistance: 15
   IsInteractableOnStart: 1
   IsInteractable: 0
-  EventListenerFsm: {fileID: 0}
+  EventListenerFsm: {fileID: 7309024566599743927}
   Outlines:
   - {fileID: 1011476257709907802}
 --- !u!114 &1011476257709907802
@@ -65347,6 +65656,10 @@ PrefabInstance:
       propertyPath: InventoryManager
       value: 
       objectReference: {fileID: 1422180743}
+    - target: {fileID: 1077880880650152540, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
+      propertyPath: sfx_AS
+      value: 
+      objectReference: {fileID: 5493478065310582219}
     - target: {fileID: 1774206568904714848, guid: 98f3e9907db6da24a802eca6143a0d50, type: 3}
       propertyPath: m_Name
       value: Yellow Flower
@@ -76121,7 +76434,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -243.5, y: 306.50104}
+  m_AnchoredPosition: {x: -243.5, y: 306.50143}
   m_SizeDelta: {x: 0, y: 30000}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &4727457983680021982
@@ -76214,7 +76527,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 4727457984102319871}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.0145952385
+  m_Size: 0.014594029
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -77935,6 +78248,7 @@ RectTransform:
   m_Children:
   - {fileID: 4727457984725574976}
   - {fileID: 4727457984207897238}
+  - {fileID: 882381848}
   - {fileID: 4727457983474088469}
   - {fileID: 4727457983089560569}
   - {fileID: 4727457984624980211}
@@ -80940,7 +81254,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 6949401535166875095}
+            value: {fileID: 6949401533525895487}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -81581,6 +81895,7 @@ MonoBehaviour:
   PlayerInput: {fileID: 539323441}
   InventoryManager: {fileID: 1422180743}
   MovementController: {fileID: 1422180740}
+  MouseLockHelper: {fileID: 6949401534757379042}
 --- !u!1 &5493478065310581301
 GameObject:
   m_ObjectHideFlags: 0
@@ -89464,7 +89779,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 6949401535166875095}
+            value: {fileID: 6949401535208665706}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []

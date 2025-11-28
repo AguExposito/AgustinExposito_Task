@@ -9,6 +9,7 @@ namespace Code.Inventory.UI
         public PlayerInput PlayerInput;
         public InventoryManager InventoryManager;
         public MonoBehaviour MovementController;
+        public GameObject MouseLockHelper;
 
         private void Start()
         {
@@ -32,6 +33,9 @@ namespace Code.Inventory.UI
 
             if (MovementController != null)
                 MovementController.enabled = !isActive;
+
+            if (MouseLockHelper != null)
+                MouseLockHelper.SetActive(!isActive);
 
             Cursor.lockState = isActive ? CursorLockMode.None : CursorLockMode.Locked;
             Cursor.visible = isActive;
