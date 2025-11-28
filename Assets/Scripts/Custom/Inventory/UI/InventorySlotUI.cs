@@ -40,7 +40,11 @@ namespace Code.Inventory.UI
             // Right-click use
             if (eventData.button == PointerEventData.InputButton.Right)
             {
-                inventoryUI.InventoryManager.UseSlot(slotIndex);
+                var slot = inventoryUI.InventoryManager.Inventory.Slots[slotIndex];
+                if (!slot.IsEmpty && slot.Item.Type == ItemType.Consumable)
+                {
+                    inventoryUI.InventoryManager.UseSlot(slotIndex);
+                }
             }
         }
 

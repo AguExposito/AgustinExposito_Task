@@ -16,6 +16,7 @@ public class ChickenDialogueManager : MonoBehaviour
         dialogueText.text = chickenDialogue[chickenCurrentDialogueIndex];
         if (chickenCurrentDialogueIndex == chickenDialogue.Length - 1)
         {
+            GetComponent<RemoveItem>().Remove();
             FindObjectOfType<IslandGameManager>().CheckChicken();
         }
     }

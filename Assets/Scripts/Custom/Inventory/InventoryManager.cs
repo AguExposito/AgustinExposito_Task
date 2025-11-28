@@ -18,6 +18,11 @@ namespace Code.Inventory
             return Inventory.Add(item, amount);
         }
 
+        public bool TryRemoveItem(ItemDefinition item, int amount = 1)
+        {
+            return Inventory.Remove(item, amount);
+        }
+
         public void UseSlot(int index)
         {
             var slot = Inventory.Slots[index];

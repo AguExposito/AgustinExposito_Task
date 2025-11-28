@@ -47,6 +47,34 @@ namespace Code.Inventory
             return false; // inventory full
         }
 
+        public bool Remove(ItemDefinition item, int amount = 1)
+        {
+            int remaining = amount;
+            for (int i = 0; i < slots_.Count; i++)
+            {
+                if (slots_[i].Item == item && !slots_[i].IsEmpty)
+                {
+                    var slot = slots_[i];
+                    int take = Mathf.Min(slot.Amount, remaining);
+                    slot.Amount -= take;
+                    remaining -= take;
+                    if (slot.Amount <= 0)
+                    {
+                        slot = new InventorySlot();
+                    }
+                    slots_[i] = slot;
+                    if (remaining == 0)
+                    {
+                        OnInventoryChanged?.Invoke();
+                        return true;
+                    }
+                }
+            }
+            // not enough items, rollback not implemented (could be improved)
+            OnInventoryChanged?.Invoke();
+            return remaining == 0;
+        }
+
         public void RemoveAt(int index)
         {
             if (index < 0 || index >= slots_.Count) return;
